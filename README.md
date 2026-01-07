@@ -1,4 +1,4 @@
-# myProject
+# My Project
 
 ## This is description
 
